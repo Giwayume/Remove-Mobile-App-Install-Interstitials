@@ -15,12 +15,16 @@ aliexpress.com###ms-downloadbar-wrap
 amazon.com##.smart-app-banner
 amazon.de##.smart-app-banner
 amazon.in##.smart-app-banner
+animefreak.tv###googleModal
 booking.com##.appacq-banner-rating-wrap
+bulumanga.com##.foot-download,.foot-download+.footer
 dailymail.co.uk###smartBanner
 damnlol.com##.overlay.facebook-page
 deviantart.com###smartbanner.android
 imgur.com##.FloatingOIA-container,.FloatingOIA,.PostContainer-postGetApp,.AppBanner,.getTheApp
 ! TODO: mail.yahoo.com 
+mangafox.me##.sidetip
+mangareader.net###googleModal
 ok.ru##.promo-blck.js-adv
 pinterest.com##.AppUpsellHeader__background
 pixnet.net##.smartbanner.smartbanner_android
@@ -34,3 +38,4 @@ tmall.com##.app-download-popup
 twitch.tv##.mobile-header--toolbar>.button--upsell
 uol.com.br###smart-banner
 walmart.com##.AppBanner
+zingbox.me##a[href*=".apk"],a[href*="itunes.apple.com"]
