@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: Remove App Install Interstitials
+! Author: Giwayume
+! Version: 1.0
+! Expires: 1 days
+! License: GNU GENERAL PUBLIC LICENSE VER 3
+! Homepage: https://github.com/Giwayume/Remove-Mobile-App-Install-Interstitials/
+! WritingRules: https://adblockplus.org/filters
+! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
+! RegExpVisualizer http://www.regexper.com/
+
+||reddit.com##.DualPartInterstitial
