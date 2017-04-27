@@ -1,2 +1,21 @@
-# Remove-Mobile-App-Install-Interstitials
-Removes the annoying app install interstitials that appear on mobile websites which prompt you to install their mobile app.
+# Remove Mobile App Install Interstitials
+
+Tired of websites hounding you to download their mobile app?
+
+Want to just use a mobile website without being constantly pestered about their app's existence?
+
+This filter list is for you!
+
+## Installation
+
+First you need to install an adblocker extension on your mobile browser that supports filter lists. Currently only a few mobile browsers support this.
+
+### Firefox
+
+1. Install [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) (or equivalent) from the [Firefox Add-Ons website](https://addons.mozilla.org/).
+2. [Subscribe to the filter list](https://raw.githubusercontent.com/Giwayume/Remove-Mobile-App-Install-Interstitials/master/filters.txt).
+3. Enjoy!
+
+### Other Browsers
+
+Coming soon.

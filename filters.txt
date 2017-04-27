@@ -9,4 +9,10 @@
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
 ! RegExpVisualizer http://www.regexper.com/
 
+amazon.com##.smart-app-banner
+damnlol.com##.overlay.facebook-page
+imgur.com##.FloatingOIA-container,.FloatingOIA,.PostContainer-postGetApp,.AppBanner,.getTheApp
+! TODO: mail.yahoo.com 
 reddit.com##.DualPartInterstitial
+taobao.com##.app-download
+tmall.com##.app-download-popup
