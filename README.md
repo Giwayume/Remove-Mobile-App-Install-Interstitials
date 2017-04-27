@@ -16,6 +16,12 @@ First you need to install an adblocker extension on your mobile browser that sup
 2. [Subscribe to the filter list](https://raw.githubusercontent.com/Giwayume/Remove-Mobile-App-Install-Interstitials/master/filters.txt).
 3. Enjoy!
 
+### Adblock Browser (Android)
+
+1. [Download and install the browser from the app store](https://play.google.com/store/apps/details?id=org.adblockplus.browser)
+2. Open the browser. Go to Settings -> Ad blocking -> More blocking options -> Add other filter list
+3. Type in or copy/paste this URL: https://raw.githubusercontent.com/Giwayume/Remove-Mobile-App-Install-Interstitials/master/filters.txt
+
 ### Other Browsers
 
 Coming soon.
