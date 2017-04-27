@@ -9,10 +9,28 @@
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
 ! RegExpVisualizer http://www.regexper.com/
 
+accuweather.com###app-store-links
+alibaba.com##ai-download-app-zyl,a[href*="apps.do"]
+aliexpress.com###ms-downloadbar-wrap
 amazon.com##.smart-app-banner
+amazon.de##.smart-app-banner
+amazon.in##.smart-app-banner
+booking.com##.appacq-banner-rating-wrap
+dailymail.co.uk###smartBanner
 damnlol.com##.overlay.facebook-page
+deviantart.com###smartbanner.android
 imgur.com##.FloatingOIA-container,.FloatingOIA,.PostContainer-postGetApp,.AppBanner,.getTheApp
 ! TODO: mail.yahoo.com 
+ok.ru##.promo-blck.js-adv
+pinterest.com##.AppUpsellHeader__background
+pixnet.net##.smartbanner.smartbanner_android
 reddit.com##.DualPartInterstitial
+soundcloud.com##.upsellBanner,.upsellBanner__app,.footer__appButtonContainer
+stackexchange.com##.app-banner
+stackoverflow.com##.app-banner
 taobao.com##.app-download
+tianya.cn##.app-tips
 tmall.com##.app-download-popup
+twitch.tv##.mobile-header--toolbar>.button--upsell
+uol.com.br###smart-banner
+walmart.com##.AppBanner
