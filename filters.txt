@@ -21,7 +21,11 @@ bulumanga.com##.foot-download,.foot-download+.footer
 dailymail.co.uk###smartBanner
 damnlol.com##.overlay.facebook-page
 deviantart.com###smartbanner.android
+diamondbank.com/wp-content/plugins/popup-maker/assets/css/
+gtbank.com###smartbanner
 imgur.com##.FloatingOIA-container,.FloatingOIA,.PostContainer-postGetApp,.AppBanner,.getTheApp
+key.com###smartbanner
+key.com/kco/css/jquery.smartbanner.css
 ! TODO: mail.yahoo.com 
 mangafox.me##.sidetip
 mangareader.net###googleModal
@@ -32,6 +36,7 @@ reddit.com##.DualPartInterstitial
 soundcloud.com##.upsellBanner,.upsellBanner__app,.footer__appButtonContainer
 stackexchange.com##.app-banner
 stackoverflow.com##.app-banner
+statefarm.com##.app-banner
 taobao.com##.app-download
 tianya.cn##.app-tips
 tmall.com##.app-download-popup
