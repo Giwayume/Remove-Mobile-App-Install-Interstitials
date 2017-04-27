@@ -10,7 +10,7 @@ This filter list is for you!
 
 First you need to install an adblocker extension on your mobile browser that supports filter lists. Currently only a few mobile browsers support this. Then reference this filter list in the settings.
 
-### Firefox
+### Firefox Mobile
 
 1. Install [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) (or equivalent) from the [Firefox Add-Ons website](https://addons.mozilla.org/).
 2. [Subscribe to the filter list](https://raw.githubusercontent.com/Giwayume/Remove-Mobile-App-Install-Interstitials/master/filters.txt).
