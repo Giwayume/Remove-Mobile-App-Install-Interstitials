@@ -13,9 +13,11 @@ accuweather.com###app-store-links
 alibaba.com##ai-download-app-zyl,a[href*="apps.do"]
 aliexpress.com###ms-downloadbar-wrap
 amazon.com##.smart-app-banner
+amazon.co.uk##.smart-app-banner
 amazon.de##.smart-app-banner
 amazon.in##.smart-app-banner
 animefreak.tv###googleModal,a[href*="animemobile.com"]
+bpiexpressonline.com###smartbanner
 booking.com##.appacq-banner-rating-wrap
 bulumanga.com##.foot-download,.foot-download+.footer
 dailymail.co.uk###smartBanner
@@ -29,16 +31,21 @@ key.com/kco/css/jquery.smartbanner.css
 ! TODO: mail.yahoo.com 
 mangafox.me##.sidetip
 mangareader.net###googleModal
+mcdonalds.com###smartbanner
+mobile.illinoislottery.com/etc/designs/northstarmobile/appclientlibs/js/mobilepopup.js
 ok.ru##.promo-blck.js-adv
 pinterest.com##.AppUpsellHeader__background
 pixnet.net##.smartbanner.smartbanner_android
 reddit.com##.DualPartInterstitial
+seeclickfix.com##.row.app-icons
 soundcloud.com##.upsellBanner,.upsellBanner__app,.footer__appButtonContainer
 stackexchange.com##.app-banner
 stackoverflow.com##.app-banner
+standardbank.co.za##.smartbanner
 statefarm.com##.app-banner
 taobao.com##.app-download
 tianya.cn##.app-tips
+ticketmaster.com##.md-eventhead.androidapp
 tmall.com##.app-download-popup
 twitch.tv##.mobile-header--toolbar>.button--upsell
 uol.com.br###smart-banner
