@@ -8,7 +8,7 @@ This filter list is for you!
 
 ## Installation
 
-First you need to install an adblocker extension on your mobile browser that supports filter lists. Currently only a few mobile browsers support this.
+First you need to install an adblocker extension on your mobile browser that supports filter lists. Currently only a few mobile browsers support this. Then reference this filter list in the settings.
 
 ### Firefox
 
