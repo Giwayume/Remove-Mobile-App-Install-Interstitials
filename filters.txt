@@ -9,4 +9,4 @@
 ! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
 ! RegExpVisualizer http://www.regexper.com/
 
-||reddit.com##.DualPartInterstitial
+reddit.com##.DualPartInterstitial
