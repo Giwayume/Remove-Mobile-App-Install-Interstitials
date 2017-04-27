@@ -15,7 +15,7 @@ aliexpress.com###ms-downloadbar-wrap
 amazon.com##.smart-app-banner
 amazon.de##.smart-app-banner
 amazon.in##.smart-app-banner
-animefreak.tv###googleModal
+animefreak.tv###googleModal,a[href*="animemobile.com"]
 booking.com##.appacq-banner-rating-wrap
 bulumanga.com##.foot-download,.foot-download+.footer
 dailymail.co.uk###smartBanner
