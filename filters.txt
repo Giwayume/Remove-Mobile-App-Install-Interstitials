@@ -24,6 +24,7 @@ dailymail.co.uk###smartBanner
 damnlol.com##.overlay.facebook-page
 deviantart.com###smartbanner.android
 diamondbank.com/wp-content/plugins/popup-maker/assets/css/
+foursquare.com##.getTheAppPrompt,#mobileDownload>#contents>#container>#download,#mobileDownload>#contents>#container>#alsoOn
 gtbank.com###smartbanner
 imgur.com##.FloatingOIA-container,.FloatingOIA,.PostContainer-postGetApp,.AppBanner,.getTheApp
 key.com###smartbanner
